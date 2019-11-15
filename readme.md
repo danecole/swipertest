@@ -10,10 +10,9 @@ Stencil combines the best concepts of the most popular frontend frameworks into 
 
 Stencil components are just Web Components, so they work in any major framework or with no framework at all.
 
-## using The Component
+## Using The Component
 You can insert your own images and URLs. The component logic will take care of the layout and sizing
 
 Inserting text should work although you'll need to do your own text styling
 
-
-
+Here's a [Demo](http://danecole.com/swipertest/)!
